@@ -1,0 +1,45 @@
+{
+  "id": "intro_economia",
+  "pages": [
+    {
+      "blocks": [
+        {
+          "type": "title",
+          "text": "¿Qué es la Economía?"
+        },
+        {
+          "type": "body",
+          "text": "La economía es la ciencia que estudia cómo las sociedades administran recursos escasos para satisfacer necesidades ilimitadas."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "¿Cuál es el problema fundamental de la economía?",
+          "options": [
+            "Recursos ilimitados",
+            "Escasez",
+            "Exceso de producción",
+            "Falta de dinero"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Factores Productivos"
+        },
+        {
+          "type": "body",
+          "text": "Los factores productivos son los recursos necesarios para producir bienes y servicios: tierra, trabajo y capital."
+        },
+        {
+          "type": "input_answer",
+          "question": "¿Cómo se llama el problema de recursos limitados?",
+          "correctAnswer": "escasez"
+        }
+      ]
+    }
+  ]
+}
