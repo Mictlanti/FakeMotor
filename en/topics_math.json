@@ -1,10 +1,10 @@
 [
   {
-    "id": "potencias",
-    "title": "Potencias"
+    "id": "pow",
+    "title": "Power"
   },
   {
-    "id": "fracciones",
-    "title": "Fracciones"
+    "id": "fract",
+    "title": "Fractions"
   }
 ]
