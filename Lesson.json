@@ -34,11 +34,6 @@
         {
           "type": "body",
           "text": "Los factores productivos son los recursos necesarios para producir bienes y servicios: tierra, trabajo y capital."
-        },
-        {
-          "type": "input_answer",
-          "question": "¿Cómo se llama el problema de recursos limitados?",
-          "correctAnswer": "escasez"
         }
       ]
     }
