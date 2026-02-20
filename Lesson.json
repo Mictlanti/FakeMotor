@@ -1,6 +1,7 @@
 [
-  "id",":", "intro_economia",
-  "pages",":", [
+  {
+  "id": "intro_economia",
+  "pages": [
     {
       "blocks": [
         {
@@ -42,4 +43,5 @@
       ]
     }
   ]
+  }
 ]
