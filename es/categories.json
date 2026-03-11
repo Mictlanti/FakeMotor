@@ -1,10 +1,14 @@
 [
   {
-    "id": "math",
-    "title": "Matemáticas"
+    "id": "intro_economia",
+    "title": "Introducción a la economía"
   },
   {
-    "id": "econo",
-    "title": "Economía"
+    "id": "teo_consum_cardi",
+    "title": "Teoría del consumidor (cardianl)"
+  },
+  {
+    "id": "teo_consum_ordi",
+    "title": "Teoría del consumidor (ordinal)"
   }
 ]
